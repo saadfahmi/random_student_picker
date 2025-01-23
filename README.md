@@ -21,3 +21,11 @@ The header file that:
 
 ### 3. `students.txt` (example)
 A sample file containing a list of student names, one per line. Example:
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saadfahmi/random_student_picker.git
+   cd /random_student_picker
+   code .
+   gcc main.c -o (name for your program)
+   ./(name selected)
